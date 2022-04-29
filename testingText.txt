@@ -1,0 +1,1867 @@
+EXECUTIVE DIGEST
+From startup to scalable enterprise: Laying
+the foundation
+Joseph C. Picken
+Naveen Jindal School of Management, The University of Texas at Dallas, 800 West Campbell Road SM 43,
+Richardson, TX 75080-3021, U.S.A.
+1. Laying the foundation: The critical
+period of transition
+In recent years, the lean startup methodology has
+been popularized as the scientific method applied
+to startups. This approach emphasizes a disciplined
+process of exploration, validation, and refinement
+of the business concept as an essential first step in
+the development of an entrepreneurial venture
+(Aulet, 2013; Blank, 2013). Although undeniably
+important, refining and validating the business concept is only a first step. Much work remains to be
+done as the entrepreneur and his/her team lay the
+foundation for a scalable enterprise.
+Various models have described the chronological
+evolution of entrepreneurial firms. Most follow the
+classic life cycle model of organizational growth:
+Steinmetz (1969) and Kroeger (1974) focused on
+evolving managerial functions and roles at different
+stages; Greiner (1972) described periods of growth
+and evolution punctuated by crises of leadership,
+autonomy, control, and bureaucracy, each setting
+the stage for the next period of growth.
+Business Horizons (2017) 60, 587—595
+Available online at www.sciencedirect.com
+ScienceDirect
+www.elsevier.com/locate/bushor
+KEYWORDS
+Entrepreneurship;
+Startup;
+Laying the foundation;
+Scaling;
+Company building;
+Sustained and
+profitable growth
+Abstract The essential steps in the transition from a nascent startup to an
+organization capable of sustained and profitable growth are not readily apparent
+to many early stage entrepreneurs. The life cycle of an entrepreneurial venture
+consists of four stages (startup, transition, scaling, and exit), each defined by the
+principal challenges faced by the founding team. The popular lean startup methodology emphasizes a disciplined process of exploration, validation, and refinement of
+the business concept as the essential first step in the process. Although it is
+undeniably important to get the business concept right in the beginning, there is
+a period of transition during which the founding team must establish a solid
+foundation for growth and scaling that may ultimately have a greater influence
+on venture success. To date, limited research has focused on transition and the field
+has offered little normative guidance. Entrepreneurs have largely been on their own
+as they struggle, through trial and error, to lay the foundation and build a scalable
+business. This article describes the essential tasks to be undertaken–—the eight
+hurdles oftransition–—and provides normative guidance, solidly based on experience,
+regarding the actions required to establish the foundation for a scalable business.
+# 2017 Kelley School of Business, Indiana University. Published by Elsevier Inc. All
+rights reserved.
+E-mail address: jpicken@utdallas.edu
+0007-6813/$ — see front matter # 2017 Kelley School of Business, Indiana University. Published by Elsevier Inc. All rights reserved.
+http://dx.doi.org/10.1016/j.bushor.2017.05.002
+In our view1
+, the entrepreneurial innovation process proceeds through four stages (startup, transition, scaling, and exit), each defined by the principal
+challenges faced by the founding team. As illustrated in Figure 1, the boundaries between the adjacent
+stages are fuzzy and frequently overlapping. While it
+is essential to get the business concept right in the
+startup stage, laying the foundation for a scalable
+enterprise during the period of transition is equally
+critical and may ultimately have a greater influence
+on venture success than startup.
+The entrepreneur’s challenge in startup is to
+define and validate the business concept: the market opportunity (i.e., critical need, target market,
+market size, and timing); the offering (i.e., product
+or service and value proposition); the business
+model (i.e., resources, processes, and economic
+model); and the go-to-market strategy needed to
+deliver the offering reliably to the target customer
+at a profit. In startup, the focus is narrow, the
+commitment of time and resources is limited, and
+the economic risks are modest. The organization of
+a startup is typically informal, loosely structured,
+and fluid.
+The period of transition begins about the time an
+entrepreneurial firm first gains traction in the marketplace. Transition represents an essential bridge
+between the loosely structured informality of the
+startup and the structured and disciplined form
+required for rapid scaling. The entrepreneur’s challenge is to complete the development of the offering, establish a solid foundation, and position the
+organization for rapid scaling. Once the startup
+engages customers, additional resources are required, new capabilities must be developed, and
+the scope and complexity of the challenges faced by
+the founding team increase dramatically (Hambrick
+& Crozier, 1985).
+In the scaling phase, the entrepreneur must add
+significant resources and leverage processes and
+partnerships to grow the business within the framework of the validated business concept and a sustainable business model. The objective becomes
+rapid growth in order to achieve competitive scale
+and establish sustainable market leadership. Scaling requires a very different kind of organization–—
+one with structure, process, and discipline. As the
+firm grows, the fluid and flexible environment of the
+startup organization becomes unwieldy. Informal
+communication and decision-making processes are
+no longer effective. Functional specialists now assume roles once covered by generalists, and processes and policies replace ad hoc decision making
+(Hofer & Charan, 1984). Consistent profitability is
+required to provide a return for investors and fund
+the drive to market leadership. At some point, a
+successful exit (by IPO, private sale, merger, or
+acquisition) is usually required to harvest the value
+accumulated by the venture for the benefit of the
+entrepreneur and investors.
+Transition, as the nascent startup matures into a
+disciplined business, is arguably the most critical
+period in the life of an emerging firm. During this
+relatively brief period (typically 18—36 months),
+the founding team must lay the foundation for a
+rapidly growing business, establish credibility and
+legitimacy, and acquire the initial resources essential for growth. The experience and competence
+demanded of the management team expands dramatically in this stage (Wasserman, 2003). The
+founders must simultaneously deal with strategic
+direction and market positioning, building a management team, implementing discipline, structure
+and management processes, acquiring resources,
+molding a supportive culture, and managing risk
+proactively. The increased scope and complexity
+also requires that the founding team adjust
+its leadership style and management behaviors
+(Picken, 2017).
+Many new ventures fail to negotiate these challenges. No matter how brilliant or compelling the
+original idea, only about half survive more than
+5 years (Bureau of Labor Statistics, 2016), and only
+the most promising receive early-stage professional
+investment. Even with substantial funding, more
+than 75% of venture-backed firms fail or sustain a
+marginal existence (Ruhnka, Feldman, & Dean,
+1992). Management inexperience or incompetence
+(Gorman & Sahlman, 1989), the failure to manage
+Figure 1. Four stages in the life cycle of an entrepreneurial firm
+TIME
+SALES
+Transition
+(lay the foundation for
+a scalable business)
+Scaling (add resources to profitably scale the Startup enterprise) (define and validate
+the business concept)
+Exit (harvest the venture through IPO, private sale, merger or acquisition)
+1 The model of organizational development reflects the collaborative contribution of the entrepreneurship faculty at the
+Jindal School.
+588 EXECUTIVE DIGEST
+the business properly (Drucker, 1985), or the inability of the founders to continually meet new challenges as the business evolves (Boeker & Wiltbank,
+2005) are often cited as factors contributing to
+venture failure. Premature scaling, in a bid to
+establish market leadership before laying a solid
+foundation for rapid growth, often precipitates
+failure as transaction volumes overwhelm inadequate systems and infrastructures or outrun
+the capacity of the management team (Boeker &
+Karichalil, 2002). If a proper foundation for scaling
+has been established, the firm will be positioned to
+grow rapidly, riding the momentum of an expanding
+market as far and as fast as is competitively achievable. If not, trouble lies ahead.
+So, what must founders do to ensure success? The
+essential steps in the transition from a nascent
+startup to an organization capable of sustained
+and profitable growth are known but are not apparent to most early stage entrepreneurs, who typically are concerned primarily with product and
+early customer development. To date, there has
+been limited focus on this critical period and little
+has been offered in the form of useful normative
+guidance. Entrepreneurs have been left largely on
+their own to struggle, through trial and error, as
+they attempt to establish the structure and foundation for a scalable business. My objective in this
+Executive Digest is to outline the essential tasks and
+challenges of transition and to provide guidance,
+based on experience, about the actions required.
+I summarize the essential tasks in Table 1 as the
+eight hurdles of transition (previously introduced in
+Business Horizons by Picken, 2017). The examples
+provided herein have been disguised to protect
+client confidentiality.
+2. The eight hurdles of transition
+In an Olympic track and field event, a field of
+competitors must run a race on a 110-meter track
+interrupted by eight hurdles that must be cleared
+along the way. The winner is the first to cross the
+finish line; tripping over any of the hurdles significantly reduces the odds of ending up on the podium.
+The entrepreneurial startup is also in a race.
+Significant advantages usually accrue for companies
+Table 1. The eight hurdles of the transition period
+ Setting a direction and maintaining focus
+The entrepreneur must be clear about his/her goals, view the situation realistically, and establish and
+communicate a clear direction (target customer, offering, value proposition, business model and key milestones)
+to keep the organization focused on the proper objectives.
+ Positioning products/services in an expanded market
+Customerrelationships and distribution channels must be developed and the product/service offering expanded,
+refined, and repositioned to meet the needs of an expanded market.
+ Maintaining customer/market responsiveness
+In the early days, when customer issues and problems arise, decisions are made quickly and resolution is swift.
+With growth, functional specialization and organizational layers slow the process, and new internal processes
+must be developed and implemented to maintain customer responsiveness.
+ Building an organization and management team
+The development ofthe managementteam is critical. The required skills and the organizational demands change
+significantly as the firm grows, requiring careful planning and flexibility to ensure alignment with strategy and
+business requirements.
+ Developing effective processes and infrastructures
+Effective decision processes and efficient operational and management processes and infrastructures are
+essential to support growth. As the firm gains traction in the marketplace, new systems and infrastructures will
+be required to deliver value to customers, adapt to a changing environment and support the growing business.
+ Building financial capability
+It’s not just about raising money. Investors are also interested in the efficient utilization of resources, effective
+controls, efficient management of working capital, reliable financial projections, and clear and effective
+stakeholder communications.
+ Developing an appropriate culture
+Founders have an opportunity to shape and mold a culture that reflects values, beliefs and norms supportive of
+the firm’s business purpose and strategy. Failure to do so risks the unwitting development of a dysfunctional
+culture that precipitates the failure of the firm.
+ Managing risks and vulnerabilities
+Rapidly growing ventures with all their eggs in one basket are particularly vulnerable to sources of risk, including
+rapid growth, a narrow revenue base, inexperienced employees, key employee defections, inadequate
+infrastructures, information and management systems, and a bias toward entrepreneurial risk-taking.
+EXECUTIVE DIGEST 589
+that lead their markets. During periods of rapid
+growth and expansion, demand typically exceeds
+supply, margins are higher, competition is less, and
+the market leader earns higher profits. The perceived market leader becomes the preferred
+choice, sets market prices, and often realizes economies of scope and scale in marketing, production,
+and distribution (Moore, 1991).
+So why do so many startups stumble and fall? One
+can often trace a venture’s failure to realize its
+early promise to the failure to clear one or more of
+the hurdles during the critical period of transition.
+2.1. The first hurdle: Setting a direction
+and maintaining focus
+There is an old saying: ‘If you don’t know where
+you’re headed, any road will get you there.’ For the
+entrepreneurial firm with limited resources, ‘any
+road’ is rarely good enough. Founders who begin to
+develop products, build the business, hire employees, and acquire resources before they understand
+their customers and validate their key assumptions,
+frequently trip over this hurdle.
+The principal challenge in startup is to define and
+validate the business concept in the context of
+market realities, addressing both value creation
+for the target customer and value capture for the
+entrepreneur and investors. The firm and its customers do not exist in isolation but must recognize
+and deal with the complexities of an industry
+ecosystem, consisting of all the firms and their
+partners in addition to suppliers, customers, and
+competitors that comprise the infrastructure of
+a dynamic and continually evolving competitive
+environment.
+The essential elements of value creation–—the
+target customer, his needs and preferences, and
+an offering and value proposition that will satisfy
+those needs–—must be developed and validated.
+The entrepreneur must identify and evaluate both
+competitors and potential competitors. A business
+model capable of reliably and profitably delivering
+the value proposition must specify: the customer
+relationships and channels for sales; distribution
+and after-market support; the economic model
+and profit formula; and the activities, processes,
+and partnerships required for implementation
+(Johnson, Christensen, & Kagermann, 2008).
+A clear market entry strategy is essential, as
+entering an established market against incumbent
+competitors requires a very different strategy and
+approach than competing against non-consumption
+in a virgin territory. The entrepreneur must understand the context, view the situation realistically,
+be clear about goals and strategic priorities, and
+identify the most direct and efficient path to the
+objective. This requires a clear sense of what the
+firm is about, what it will do, and–—perhaps more
+important–—what it must not do.
+Strategy and direction must be communicated
+broadly and effectively. Because the entrepreneur
+has an intuitive sense of direction, he/she often
+assumes that the rest of the team and key partners
+share that understanding. If the founder fails to
+clearly communicate and achieve alignment on
+direction, the outcome is often sub-optimization
+and wasted resources as other members of the team
+must guess at what makes strategic sense.
+All too often, founders forge ahead prematurely
+into product development and company building,
+wasting time and limited resources. Many an entrepreneur without a steady focus and clear sense of
+direction has dissipated scarce resources by chasing
+targets of opportunity not on the organization’s
+critical path.
+A promising new medical device technology had
+the potential to disrupt an established industry
+focused on neurostimulation for pain management. The new technology replaced electrodes
+surgically implanted at the base of the spine
+and connected to a battery placed under the skin
+with miniaturized subdermal electric nodes placed
+immediately adjacent to the affected peripheral
+nerves. A PhD student working on the device
+licensed the technology, formed a startup, and
+funded early concept and application development
+through federal research grants. When technical
+challenges arose, the founder followed the path of
+least resistance, abandoned the initial concept
+and applied for new grants for any potential application for which funding was available. After
+another failure, another research grant, and another shift in strategy, the founder departed. The
+company has never successfully brought a product
+to market. The remaining employees have become
+competent grant writers, however, and continue
+to pursue new funding opportunities one after
+another.
+A clear sense of direction and disciplined execution are essential. If the entrepreneur and the
+founding team do not understand the competitive
+environment and do not have a clear sense of how
+the venture will engage customers, create value,
+and consistently deliver that value at a profit, it is
+likely that ‘any road will do.’
+2.2. The second hurdle: Positioning
+products/services in an expanded market
+Although understanding and satisfying the needs of
+a firm’s initial customers is essential to early market
+590 EXECUTIVE DIGEST
+entry (Aulet, 2013), many entrepreneurs fail to
+recognize the ongoing dynamics of this relationship.
+The expectations and demands of customers in the
+early market are very different from those in mainstream markets. As a startup penetrates a market,
+expands its geographic scope, and moves beyond
+early adopters into mainstream markets, the company must adjust and reposition its product/service
+offering again and again to meet the needs of an
+expanded market (Moore, 1991).
+Many startups are focused on a device or a core
+product rather than a complete, whole-product
+offering. Delivering a complete offering often requires complementary products (such as software
+for a computer) and contributions from marketing,
+sales, distribution, field engineering, service, training, customer support, financing, warranty administration, etc. (Schindehutte, Morris, & Pitt, 2009).
+Early adopters may buy the core product but the
+mainstream is interested in offerings that meet a
+broader set of requirements.
+There are four fundamental questions that must
+be addressed: Who is our customer? What are his/
+her needs? What are his/her priorities? How will we
+sell, deliver, service, and support our products?
+These questions must be revisited repeatedly as
+the firm engages progressively broader markets.
+As the firm transitions from early markets into
+the mainstream, the relative importance of the
+product itself declines while the emphasis on ancillary products, services, and support grows.
+Recognizing and responding to a continuously
+evolving set of customer needs and requirements
+is essential. Sales, marketing, production, and management processes must also adapt, requiring flexibility and growth both across the firm and in the
+capabilities of the management team.
+A promising startup developed and patented a
+unique mechanism and design for window shades
+for high-end corporate aircraft. Within a few
+years after winning a substantial original equipment manufacturing (OEM) contract and successfully penetrating the replacement aftermarket,
+the company held a commanding market share in a
+small niche at the high end of the market characterized by customers who were focused on customization and insensitive to price. In order to
+grow, the company needed to broaden its offering
+to penetrate the mainstream market with a standardized whole product–—simpler, less costly, and
+easier to install. Although the company attempted to launch several new products aimed
+at the mainstream market, it was unable to adapt
+the product designs or internal processes to the
+challenges of volume production and was ultimately unsuccessful.
+2.3. The third hurdle: Maintaining a
+customer/market focus
+In the early days of a startup, the founder is
+often the lead product developer, chief salesperson, and customer service representative.
+When something goes wrong in the hands of a
+customer–—as it inevitably does–—the feedback loop
+from customer service to product development is
+almost instantaneous, the message comes through
+loud and clear, and the firm responds promptly and
+effectively.
+As the firm grows, specialization takes over and
+layers of organization appear. New employees are
+hired, functional boundaries are established, and
+informal patterns of communication eventually
+break down. Information about design defects or
+other issues flows erratically from the field service
+representative to a manager, from one manager to
+another, and ultimately to top management and
+back down to the product development team that
+must address the issue. This takes time, and the
+inevitable filtering process often results in distorted
+messages and the loss of a sense of urgency. From
+the customer’s perspective, the firm appears to be
+less responsive than it once was and frustration
+builds.
+Conflicts often arise between the need for
+stability and standardization in operations and
+customer demands for customization, variety, and
+responsiveness. These must be resolved, taking into
+account both the needs of current and prospective
+customers and internal constituents.
+I was recruited as CEO for a small company
+providing modems and data input devices to the
+personal computer industry. A year and a half
+earlier, the company had secured a contract–—
+representing nearly a third of the company’s
+business–—to provide a key component to a major
+manufacturer of laptop computers. Early in my
+tenure, the VP of sales and I called on this customer
+with the objective of solidifying the relationship
+and ensuring that our product was specified into
+the next generation of their product. The visit did
+not go well. The customer showed us data that
+indicated that our device had been at the top of
+their customer complaint list for 9 consecutive
+months. Back at the plant, I inquired about the
+problem and asked to see the results of the product
+reliability testing. The test results were unavailable; they had never performed any testing. The
+engineering department had been aware of the
+customer’s dissatisfaction but had chosen not to
+share the information with sales or product marketing, hoping it would go away over time. I immediately launched an accelerated testing program
+EXECUTIVE DIGEST 591
+and isolated and then corrected the source of
+problem, but the relationship with the customer
+was beyond repair.
+Internal communications had clearly broken
+down. Engineering and sales did not communicate.
+Finger pointing and blame shifting were standard
+operating procedure. As critical problems were
+swept under the rug rather than being addressed,
+the entire culture turned sour. This all-too-common
+pattern can be avoided with proper organizational
+design, process, and discipline, institutionalizing an
+appropriate customer/market focus from top to
+bottom.
+2.4. The fourth hurdle: Building an
+organization and management team
+Professional investors have often been quoted
+as saying ‘It’s all about the management team.’
+Although they are interested in the breakthrough
+product and the untapped market opportunity, they
+recognize that good management is the most essential element. Building an organization and a team is
+among the entrepreneur’s most critical tasks, but it
+requires considerably more than just hiring people
+who appear to be qualified and assuming that they
+can do the job. The demands and pressures on an
+organization change significantly overthe life cycle,
+requiring careful planning and flexibility to ensure
+that staffing and structure are aligned with strategy
+and the needs of the business. Failure to do so often
+results in critical skills not on board at the right
+time, key people stretched beyond their capabilities, ineffective decision processes, and a lack of
+accountability (Fombrun & Wally, 1989).
+The organizational evolution of emerging companies follows a predictable pattern, from a structure in which everyone reports to the founder to a
+functional organization to, eventually, a divisional
+structure. It is not unusual in these transitions for
+communications to break down, important information to fall through the cracks, decisions to be
+delayed, and key challenges to remain unresolved.
+As new roles are created and specialists are hired, it
+is important to establish structures and processes
+that facilitate effective communications and decision making.
+A small company in a crowded marketplace for
+banking software had been spun out of a larger
+organization and was struggling to gain traction. A
+sagging stock price had triggered the concern of the
+board and I was retained as a consultant to recommend actions to improve performance.
+The CEO and the VP of software engineering had
+held similar positions in the previous organization
+and had worked together for years. Sales, customer
+service, and the financial organization were headed
+by individuals new to the company and more than
+20 years younger than the CEO and the engineering
+VP, the latter of whom was semi-retired and only in
+the office 1 or 2 days a week.
+Although the core product was solid, the entire
+organization was dysfunctional; cross-departmental
+communications and coordination were nonexistent. Sales specified customer requirements–—
+which frequently involved extensive customization–—
+engineering configured the product, and customer
+service was responsible for installation and implementation. Communications between sales
+and customer service and the engineering team
+were limited and usually relayed through the CEO
+or his personal assistant. A great deal of relevant
+information fell through the cracks and wide gaps
+often appeared between customer expectations
+and the delivered product. Dissatisfied customers
+and a deteriorating reputation in the industry had
+triggered the stock price decline.
+Shortly after this was reported to the board, a
+new CEO was appointed and both the original CEO
+and the VP of software engineering retired. Within
+months, the directors negotiated the sale of the
+company to its principal competitor. The internal
+issues were addressed and the company is now
+prospering as a division of a larger firm.
+2.5. The fifth hurdle: Developing
+effective processes and infrastructures
+In its early days, a venture is small enough that the
+entrepreneur can oversee every aspect of day-today operations and a firm can get by on the basis of
+ad hoc processes and controls. In transition, however, growth and functional specialization require
+the development of effective infrastructures to
+develop projects and manage customer relationships, operations, and finance (Flamholtz & Randle,
+2000).
+Startups compete not only on the basis of products or services, but on their ability to effectively
+deliver and support them. Customer-facing activities essential to attracting and building sustainable
+customer relationships demand flexibility, responsiveness, and individualized attention. Internal
+operations–—the production, delivery, and aftermarket support of the firm’s offerings–—typically need
+structure and standardized processes to achieve
+efficiency and low cost. These conflicting imperatives require a judicious balance.
+Increasing transaction volumes in sales, billing,
+purchasing, and production often expose the
+limitations of ad hoc processes. When functional
+specialization requires that communications span
+592 EXECUTIVE DIGEST
+organizational boundaries, structure and process
+become essential and a flexible work environment
+becomes difficult to manage (Boeker & Wiltbank,
+2005).
+When infrastructure processes are weak or missing, ventures risk the alienation of customers, lost
+sales, misallocated resources, and compromised
+operational or financial control. Infrastructure processes are rarely of the one-size-fits-all variety–—
+continual change and evolution is typical as a firm
+grows. Effective planning is essential to avoid the
+chaos that inevitably occurs when market success
+leads to activity levels that overwhelm existing
+systems.
+A supplier of OEM products for the marine and
+aviation industries built its reputation on flexibility, responsiveness, and customized designs using a
+variety of exotic materials and finishes. Coordination between engineering and manufacturing was
+often based on marked up drawings and informal
+communications. Errors, confusion, and rework became common, as activity increased with growth.
+A newly hired production manager, relying on his
+previous experience in a high-volume manufacturing operation, insisted on the installation of a
+complex system designed for a stable production
+line environment. The system required a complete
+engineering drawing package and bill of materials
+for every job and took nearly a year to implement.
+Flexibility and customer responsiveness evaporated, delivery lead times extended from an average
+of 10 weeks to more than 16, and internal conflict
+was high. Eventually, the new manager was terminated. The system was scrapped and replaced by a
+simpler, more flexible manufacturing process appropriate for the custom product environment. It
+took almost another year to recover and restore
+normal lead times. In the meantime, the cost of lost
+business and customer goodwill was substantial.
+Management systems are equally important. As
+an organization grows and matures, organizational
+structures, planning, accounting, human resource,
+management development, and performance management systems become increasingly important.
+At each stage in an organization’s development,
+these systems must be developed, enhanced, and
+fine-tuned in order to accommodate the evolving
+needs of the business.
+2.6. The sixth hurdle: Building financial
+capability
+For the inexperienced entrepreneur, it is often all
+about raising capital. The assumption is that once
+that initial check is in the bank, success is at hand.
+Building financial capability for the long haul
+involves a lot more just selling an idea to investors
+and cashing the check. Investors and lenders
+are interested in the efficient utilization of the
+funds and expect a return on every dollar invested.
+Although they recognize that startups often involve
+unproven markets and high levels of risk, and
+require significant investments before a viable
+product emerges, most deals are structured in
+stages to minimize risk and limit investment until
+key milestones have been achieved.
+Entrepreneurs must maintain credibility and
+manage financial resources prudently, focusing efforts and resources on the right activities, managing
+capital and cashflow efficiently, delivering reliably
+on financial projections, and demonstrating responsible behavior in managing other people’s money.
+Spurred by expansive forecasts of the demand
+for internet bandwidth, venture capital funds invested heavily in startups that provided sophisticated optical switches and other components for
+fiber-optic communications networks. When the
+actual demand for bandwidth fell short of projections, the components market collapsed in early
+2006. The venture investors pulled the plug on a
+Dallas-based manufacturer of optical switches and
+other networking gear, wrote off their $172 million
+investment, and sold the residual assets for
+$3.4 million.
+The CEO, a personal friend, had been scheduled
+to speak to a student group a few days later. I asked
+him if he wanted to cancel, but he offered to go
+ahead and meet with the students. He told them
+that after nearly 4 years of development, the
+company had been about to launch its first products
+into the market when the investors shut the company down. When he had finished his presentation, I
+asked him, “How much more funding would you
+have needed to launch the products and get to
+breakeven?” He replied, “About $13 million–—we
+were almost there!” After a brief pause, I asked
+him “What keeps you up at night?” His response was
+almost immediate: “I keep going over and over it in
+my mind–—adding up the $13 million that we spent
+that we really didn’t need to at the time. If we’d
+been more frugal in the early years, we might still
+be in business today.”
+This company had been caught in the downdraft
+of a broad-based market collapse, but the CEO had
+also been the unwitting victim of his own enthusiasm and belief in the optimistic market forecasts.
+Investors and lenders do not expect perfect foresight, but they do expect prudent management of
+the financial resources they provide. They have
+limited patience with CEOs who overpromise and
+under-deliver and otherwise abuse the relationship
+of trust. The savvy entrepreneur executes to the
+EXECUTIVE DIGEST 593
+plan, anticipates financing needs, builds relationships, and establishes credibility with financing
+sources well before the need for additional resources arises.
+2.7. The seventh hurdle: Developing and
+nurturing a culture
+Established organizations have cultures that, for
+better or worse, support or constrain the implementation of their strategies. Culture plays many
+roles in the development of an organization. It
+defines purpose, leads to consensus and a shared
+vision, and provides a consistent image to markets,
+customers, and suppliers. Culture also contributes
+to integration, coordination, and control. It sets
+standards and defines the boundaries of acceptable
+behavior both within the firm and in its interactions
+with its environment.
+Founders have a unique opportunity to shape and
+mold a culture that reflects a set of values, beliefs
+and norms thatfully support and reinforce the firm’s
+business purpose and strategy (Schein, 1983). The
+failure to do so risks the unwitting development of a
+dysfunctional culture that precipitates the failure
+of the firm. Changing a dysfunctional culture is
+difficult, challenging, and usually time-consuming.
+Early in my career, I took over the financial
+operations of a large organization. Over 10 million
+transactions were processed each month. The culture was dysfunctional. Most of the accounting
+clerks were minority females earning close to the
+minimum wage, all of the supervisors were middleaged white men and women, and several were
+regarded as abusive to their employees. The facility was surrounded by a 10-foot fence and razor wire
+in a troubled part of town and management rarely
+visited. Morale was terrible, productivity was low
+and error rates high, and turnover was more than
+40% annually. Three discrimination lawsuits were
+pending and a union organizing drive was underway.
+In less than a year, with a new team in place, we
+reorganized the workflow, replaced more than half
+of the supervisors by promoting from the ranks, and
+instituted a team-based compensation system.
+Management became highly visible. We held our
+staff meetings in the facility, walked the floor at
+least twice a week, made a point to get to know the
+employees as individuals, tracked team performance, and instituted merit pay. Performance improved dramatically, errors virtually disappeared,
+and the monthly closing cycle was shortened to
+10 days from the previous 60. The discrimination
+complaints were settled or dropped, the union
+organizing drive lost momentum, and turnover
+dropped to a manageable 15%.
+Although the turnaround was enabled by workflow
+and process improvements, it was largely empowered by cultural change. We listened to the employees, responded to their concerns, and consistently
+demonstrated that management cared about them
+and their welfare. When we arrived, the situation
+was so bad that almost any change would have been
+seen as a positive, but good management and a
+supportive culture made a huge difference.
+2.8. The eighth hurdle: Managing risks
+and vulnerabilities
+Small, rapidly growing entrepreneurial firms are
+particularly vulnerable to disruptions, including the
+generic risks peculiar to the startup environment:
+ Technical risks (Will the product work? Will it
+scale?);
+ Market risks (Is there a legitimate need? Can we
+charge enough to generate profits? Is the size
+of the opportunity sufficient to justify the
+investment?);
+ Competitive risks (How will competitors react? Can
+the firm sustain a competitive advantage?); and
+ Execution risks (Does the management team have
+relevant skills and experience?).
+Risks arise from many sources, including rapid
+growth, inexperienced employees, inadequate infrastructures and information management, and a
+bias toward entrepreneurial risk taking (Simons,
+1999). A narrow revenue base (reliance on a single
+product or a few customers) puts all the eggs in one
+basket. Limited resources provide little or no margin for error, inexperienced management may overlook early warning signs, and larger competitors
+with greater staying power may do their best to
+drive small competitors out of a market.
+These are predictable and manageable risks,
+often overlooked by inexperienced entrepreneurs.
+Proactive management requires recognition of
+potential risks, identification of weak links, and
+actions to address vulnerabilities before they
+become crises.
+3. Final thoughts
+The eight hurdles of transition are essential steps in
+the growth and maturation of the entrepreneurial
+enterprise as it evolves from a nascent startup to an
+emerging organization positioned for sustained and
+594 EXECUTIVE DIGEST
+profitable growth. The well-documented rates of
+early startup demise can often be traced to the
+failure to clear one or more of the eight hurdles of
+transition as the inexperienced entrepreneur scales
+prematurely, seeking rapid growth before laying a
+solid foundation. Clearing the hurdles and winning
+the race requires that the entrepreneur and the
+founding team:
+ Establish, communicate, and maintain a clear
+sense of direction;
+ Position and reposition the offering as required to
+meet the needs of an expanded market;
+ Develop and implement internal processes to
+ensure customer responsiveness;
+ Build a capable and committed management
+team aligned with the strategic direction;
+ Implement decision processes and infrastructures appropriate to the stage of development;
+ Build financial capability focused on the efficient
+utilization of available resources;
+ Nurture a culture thatreflects values, beliefs, and
+norms supportive of the business purpose; and
+ Recognize the inherent vulnerabilities of an
+emerging enterprise and proactively manage
+risks.
+Each of these is essential. The failure to clear one or
+more of these hurdles during the critical period of
+transition risks the demise of the new venture. I
+have outlined the essential tasks to be undertaken
+and provided experience-based guidance for laying
+a solid foundation. The rest is up to the entrepreneur and the founding team.
+References
+Aulet, B. (2013). Disciplined entrepreneurship: 24 steps to a
+successful startup. Hoboken, NJ: John Wiley & Sons.
+Blank, S. (2013). Why the lean startup changes everything.
+Harvard Business Review, 91(5), 63—72.
+Boeker, W., & Karichalil, R. (2002). Entrepreneurial transitions:
+Factors influencing founder departure. Academy of Management Journal, 45(3), 818—826.
+Boeker, W., & Wiltbank, R. (2005). New venture evolution
+and managerial capabilities. Organization Science, 16(2),
+123—133.
+Bureau of Labor Statistics (2016). Entrepreneurship and the U.S.
+economy: Survival rates of establishments, by year started
+and number of years since starting, 1994—2015. Available at
+http://www.bls.gov/bdm/entrepreneurship/bdm_chart3.
+htm
+Drucker, P. (1985). Innovation and entrepreneurship. New York:
+HarperCollins.
+Flamholtz, E., & Randle, Y. (2000). Growing pains: Transitioning
+from an entrepreneurship to a professionally managed firm.
+San Francisco: Jossey-Bass.
+Fombrun, C. J., & Wally, S. (1989). Structuring small firms
+for rapid growth. Journal of Business Venturing, 4(2),
+107—122.
+Gorman, M., & Sahlman, W. A. (1989). Journal of Business
+Venturing, 4(4), 231—248.
+Greiner, L. (1972). Evolution and revolution as organizations
+grow. Harvard Business Review, 50(4), 37—46.
+Hambrick, D., & Crozier, L. (1985). Stumblers and stars in the
+management of rapid growth. Journal of Business Venturing,
+1(1), 31—45.
+Hofer, C. W., & Charan, R. (1984). The transition to professional
+management: Mission impossible? American Journal of Small
+Business, 9(1), 1—11.
+Johnson, M. W., Christensen, C. M., & Kagermann, H. (2008).
+Reinventing your business model. Harvard Business Review,
+86(12), 50—59.
+Kroeger, C. (1974). Managerial development in the small firm.
+California Management Review, 17(1), 41—47.
+Moore, G. (1991). Crossing the chasm: Marketing and selling
+disruptive products to mainstream customers. New York:
+HarperCollins.
+Picken, J. (2017). From founder to CEO: The entrepreneur’s
+roadmap. Business Horizons, 60(1), 7—14.
+Ruhnka, J., Feldman, H., & Dean, T. (1992). The living dead
+phenomena in venture capital investments. Journal of Business Venturing, 7(2), 137—155.
+Schein, E. (1983). The role of the founder in creating organizational culture. Organizational Dynamics, 12(1), 13—28.
+Schindehutte, M., Morris, M., & Pitt, L. (2009). Rethinking
+marketing: The entrepreneurial imperative. Upper Saddle
+River, NJ: Pearson Prentice Hall.
+Simons, R. (1999). How risky is your company? Harvard Business
+Review, 77(3), 85—94.
+Steinmetz, L. (1969). Critical stages of small business growth.
+Business Horizons, 12(1), 29—36.
+Wasserman, N. (2003). Founder-CEO succession and the paradox
+of entrepreneurial success. Organization Science, 14(2),
+149—172.
+EXECUTIVE DIGEST 595
+
+
+Entrepreneurial path: decoupling
+the complexity of
+entrepreneurial process
+Kostas Galanakis
+Nottingham Business School, Nottingham Trent University, Nottingham, UK, and
+Paraskevi Giourka
+Department of Production and Management Engineering,
+Democritus University of Thrace, Xanthi, Greece
+Abstract
+Purpose – The purpose of this paper is to synthesise the socioeconomic context, personality, knowledge
+and social capital into a systemic framework, named the “entrepreneurial path” that demonstrates the
+process of transforming initial entrepreneurial intentions to a growing venture. This systemic framework
+decouples the overall complexity of the entrepreneurial realisation to three main subsystems: entrepreneurial
+intentions and venture idea formation; barriers of transition from nascent to active entrepreneur; and active
+and growing ventures.
+Design/methodology/approach – The paper employs a systemic thinking approach to decouple the
+complexity of the subject. Survey techniques and digital social network discussion forums were used for the
+collection of primary qualitative data from multiple stakeholders.
+Findings – The conceptual framework, named the entrepreneurial path, highlights the importance of
+different factors at each stage of the entrepreneurial realisation. Especially the importance of factors such as
+perceived desirability, feasibility, self-efficacy, network ties and social capital has been identified as central.
+Needs for managerial skills and resources for the new venture come to play only on the later stage. Each of
+those factors though, plays a distinctive role in the different stages of the realisation and in dependence to the
+maturity of the entrepreneurial context.
+Research limitations/implications – Further research may examine whether these factors that have been
+identified by successful entrepreneurs and stakeholders are reflecting the experience for those who have not
+been successful in their effort to create their venture.
+Practical implications – The entrepreneurial path provides a supportive tool for: academics designing
+focussed entrepreneurship education programmes and research; managers in intermediate structures to
+identify the specific needs of nascent and early-stage entrepreneurs in comparison to the needs of
+entrepreneurs in the growth stage; and for policy makers prioritising on supportive structures and
+institutions directing their actions to specific stages or barriers of the process or creating holistic and evolving
+structures based on the maturity of the entrepreneurial context.
+Originality/value – The decoupling of the process of transforming initial entrepreneurial intentions to a
+growing venture demonstrates that different approaches are required in order to foster each one of the factors
+identified. Focussing on activities and resources on one stage at the time, or presenting parallel activities that
+reflect the different level of maturity of regions, institutions, individuals and societal perceptions may provide
+better service to nascent and active entrepreneurs, than considering treating entrepreneurial intentions as a
+unified process.
+Keywords Self-efficacy, Systems thinking, Entrepreneurial intentions, Social capital,
+Entrepreneurial context, Network ties
+Paper type Research paper
+Introduction
+Entrepreneurs are recognised as important players and indispensable capital in the world
+economy as they are one of the generators of employment and income (Etzkowitz et al.,
+2000). Start-ups, especially university spin-offs, are endogenous sources of innovation and
+growth, as they generate substantial spill over effect for their regional economy (Fretshner
+et al., 2013). Additionally, business survival rates and “employability” chances have been
+shown to be higher in individuals with university entrepreneurship education than their
+International Journal of
+Entrepreneurial Behavior &
+Research
+Vol. 23 No. 2, 2017
+pp. 317-335
+© Emerald Publishing Limited
+1355-2554
+DOI 10.1108/IJEBR-03-2016-0079
+Received 11 March 2016
+Revised 28 July 2016
+13 September 2016
+Accepted 2 October 2016
+The current issue and full text archive of this journal is available on Emerald Insight at:
+www.emeraldinsight.com/1355-2554.htm
+317
+Entrepreneurial
+path
+non-academic colleagues (Kohn et al., 2010). In this context, policy makers and academics
+agree on the importance of designing policies and tools for encouraging and supporting
+entrepreneurship (Oosterbeek et al., 2010).
+Many studies have examined the relationship between entrepreneurship education and
+entrepreneurial career choice with either trait approach or intention-based approaches
+(Fayolle et al., 2006; Matlay, 2008; Souitaris et al., 2007).
+Entrepreneurship education is considered as one of the main tools for inspiring
+entrepreneurial spirit and equipping students with the entrepreneurial skills they need to
+create new ventures (European Commission, 2008; Kuratko, 2005). Educational institutions
+provide this necessary knowledge and capabilities (Rasmussen and Sørheim, 2006).
+Although there are open questions whether education programmes do enough to transform
+intentions to actual entrepreneurial actions (Dewett and Gruys, 2007; Zampetakis et al.,
+2011). Research has shown that intentions of students taking entrepreneurship courses seem
+to be increased at the end of the students’ participation in entrepreneurship programmes
+compared to the beginning (Souitaris et al., 2007).
+However, despite all the interest and recognition during the last few decades, research in
+the area of entrepreneurship tends to homogenise around the themes of strategy,
+performance, entrepreneurial attitude and management. Areas such as personal capital
+(knowledge, social and professional networks), the entrepreneurial context and how these
+affect the entrepreneurial realisation at different levels is rather emerging themes that have
+not yet been considered systematically (Prá Martens et al., 2016).
+The objective of this paper is to synthesise the socioeconomic context, personality,
+knowledge and social capital into a systemic framework, named the “entrepreneurial path”
+that demonstrates the process of transforming initial entrepreneurial intentions to a
+growing venture. This systemic framework decouples the overall complexity of the
+entrepreneurial realisation to three main subsystems: entrepreneurial intentions and
+venture idea formation; barriers of transition from nascent to active entrepreneur; and active
+and growing ventures. The aim is to provide a guideline to tailor research, supportive
+policies and educational programmes that foster entrepreneurial intentions and activities for
+each of the different stage. One research question has been shaped to achieve the objective:
+RQ1. How the personal, socioeconomic and institutional contextual factors are
+interrelated to shape the different stages of the entrepreneurial process?
+We employed a mix of traditional and contemporary research techniques, exploring
+experiences and perceptions across Europe regarding the nature of skills and characteristics
+of entrepreneurs, and depicting factors fostering entrepreneurial activity and contributing to
+the success of an entrepreneurial venture. These empirical findings are synthesised with
+previous studies on a systemic framework, using a system thinking approach. The second
+section describes the methodology and practices used in this study. The following section
+builds the conceptual framework of the entrepreneurial path, step-by-step, based on previous
+research. The fourth section provides the analysis of the primary data based on the conceptual
+framework. The paper closes with the discussion of the research question and conclusions of
+this research that illustrate the complexity of the overall conceptual framework.
+The entrepreneurial path concept
+The phases of the entrepreneurial process and the importance of entrepreneurial attitudes
+and the characteristics of entrepreneurs are addressed by the Global Entrepreneurship
+Monitor (GEM) using a socioeconomic approach (Bosma et al., 2012). Four distinctive phases
+are identified in this model: potential entrepreneurs shape their beliefs and develop their
+abilities with an intention to choose an entrepreneurial career path; early-stage
+entrepreneurial activity leads to nascent or actual new ventures; established business;
+318
+IJEBR
+23,2
+and, if either the early stages or the established business fail, discontinuation. Traits closely
+related to entrepreneurial potential such as innovativeness, locus of control, risk-taking
+propensity and tolerance for ambiguity, are related to the intentions of individuals to start a
+new venture (Gurel et al., 2010; Liñán and Chen, 2009; Segal et al., 2005). In addition,
+psychological and socio-cultural backgrounds of individuals such as cultural values, social
+exposure, entrepreneurial disposition, family tradition, education, as well as demographic
+factors have also been identified to have an effect on entrepreneurial intentions along with
+entrepreneurial self-efficacy (Gurel et al., 2010; Lans et al., 2010; Liñán and Chen, 2009; Pruett
+et al., 2009; Shinnar et al., 2012) in contrast to entrepreneurial planning (Cox, 2014).
+Expanding the GEM framework to include the personal traits that affect the decision and
+the progress of the entrepreneurial process and the social traits that present opportunities or
+threats on any economic activity create a new generic conceptual framework (Figure 1).
+This framework provides an overall view of the path and the possible influences in the
+entrepreneurial realisation.
+The next sections illustrate in more detail the factors and their interrelation that influence
+each stage: the initial entrepreneurial intentions and the generation of venture ideas; the
+transition barrier to an active entrepreneur; and the creation and growth of new ventures.
+Formation of entrepreneurial intentions and venture ideas
+It can be argued that the social and cultural environment may have an effect on intentions
+that result to the choice of an entrepreneurial career (Shapero et al., 1982). Factors like
+family, peer groups, ethnic group, educational and professional context seem to influence
+someone’s decision on creating a new venture. Recently, Klyver et al. (2012) showed that,
+often, the most important force towards an entrepreneurial career is the personal ties to an
+entrepreneurial network through their family, social or professional connections. These
+networks play a multifaceted role, in the realisation of entrepreneurship and the
+entrepreneurial process itself, relating for example, ideas with market needs (Klyver et al.,
+2012) or the success of the venture (Hoang and Antoncic, 2003; Pellinen, 2014). In addition,
+Scholin et al. (2016) posit that desire and ability for entrepreneurial career intentions
+accumulate gradually within an individual at a family context while they are triggered by
+external events or personal revelation (Scholin et al., 2016).
+Other studies show that gender difference in the attitude towards engaging to
+entrepreneurial activity can be linked to environment conditions and practices of
+entrepreneurial education (Verheul et al., 2011). Preference for self-employment is an
+Social Traits: Socioeconomic and Institutional Context and Perceptions
+Personal Traits: Personality,
+Attitudes, Knowledge and Social ties
+Spill overs Economic
+Growth
+Drop/Discontinued/Failed
+Entrepreneurship
+Intentions
+Venture
+Growth
+New Venture
+Creation
+Transformation
+to Venture Idea
+Transition
+Barrier
+Figure 1.
+The overall
+entrepreneurial
+realisation process
+319
+Entrepreneurial
+path
+important factor and relevant research has shown that men have a higher preference for
+self-employment than women (Blanchflower et al., 2001; Grilo and Irigoyen, 2006).
+Furthermore, male entrepreneurs benefit from a more diverse network ties although
+women have a significant more positive attitude towards networking, especially once the
+venture has been created (Dawson et al., 2011). Research suggests that women seem to
+attach a high value to the institutional supportive framework and to the specific,
+socioeconomic context, considering it as a major factor of uncertainty more often than an
+environment for opportunities, when deciding whether or not to run a business. Although
+they show a similar lever of belief on being capable of taking control of their own lives
+(Verheul et al., 2011).
+Transition barrier from nascent to active entrepreneur
+Perceptions and attitudes are often crucial factors that allow an individual to overcome the
+barrier of transition from nascent to active entrepreneurship. Shapero et al. (1982), in his
+research, states that the intent to start a business derives from perceptions of both,
+desirability and feasibility, which are partly formed by the person’s knowledge and
+understanding and partly by the institutional environment. The theory of planned
+behaviour (TPB) and the intention-based models (Ajzen, 1991) have been frequently used to
+explain the mental process leading up to founding a business. TPB presents three
+motivational factors, or antecedents influencing entrepreneurial behaviour (Ajzen, 1991):
+attitude towards start-up (personal attitude) refers to the extent to which the individual
+holds a positive or negative personal valuation about becoming an entrepreneur (Autio et al.,
+2001). Subjective norms measures the perceived social pressure to carry out – or not
+entrepreneurial behaviours. These norms refer to the perception that reference people for
+example, family, friends and role models would approve of the decision to become an
+entrepreneur, or not. This is supported by the work of Dunn and Holtz-Eakin (2000) that
+identify parents’ own entrepreneurial success to have an impact on the transition of an
+individual into self-employment. Perceived behavioural control refers to the perception of
+the ease or difficulty of becoming an entrepreneur. This perceived feasibility is also linked to
+availability of financial capital that is shown to have a large influence on the transition
+phase (Dunn and Holtz-Eakin, 2000).
+In addition, trust in entrepreneurial activities is another element that may facilitate or
+hinder the transition. Trust refers not only to personal relations but is also linked to
+institutional trust. Institutional trust refers to the basic level of reliability of exchanges
+and also to the enforcement of laws and regulations when required (Welter and Smallbone,
+2006). This provides a transparent environment for enterprises to operate and grow
+without extra barriers. A transparent institutional framework supports the notion of
+feasibility as it reduces potential barriers. This however, requires a level of institutional
+maturity that comes in the long term as a consequence of the economic growth.
+Propensity to act (Segal et al., 2005) – which refers to the personal disposition to act on
+one’s decision, echoing the will of a person to act (“I will do it”) – reflects the concept of
+self-efficacy. “Highest self-efficacy”, or the so called “soft skills”, often considered in a
+much higher importance than the knowledge or practical business skills in order to
+engage in a new venture. For example: “ability to spot and recognise opportunities”, “high
+personal perseverance”, “high human and social capital” and superior “social skills”.
+These skills affect the extent to which an individual believes that can organise prioritise
+and effectively execute actions to accomplish her/his ideas (Bridge et al., 2009; Jung et al.,
+2001, Lamine et al., 2014), to withstand and quickly overcome adversity (Markman
+and Baron, 2003), or the ability to distinguish between high potential and low potential
+opportunities, obstacles and risks before they become obsolete or unbearable (De Clerq
+and Arenius, 2006).
+320
+IJEBR
+23,2
+Active and growing ventures
+Ulhøi (2005) posits that economic activity is embedded in social relations and such relations
+influence the creation of new ventures and the “art of running a business”. This position is
+further supported by Gnyawali and Ravindranath (2001) who argue that network relations
+may increase the likelihood of competitive advantage mainly because of increased access to
+resources and information. Especially in small communities, social skills which is defined as
+“an individual’s ability to effectively develop, maintain, and utilize social capital can provide
+access to information and finance” (Bauernschuster et al., 2010; Jonsson, 2014; Lamine et al.,
+2014). Welter and Smallbone (2006) support the idea that the potential to use networks and
+social relations in building a new venture is based on the principle of trust. Research in the
+field has shown that building heterogeneous networks increases the likelihood of creating a
+venture (Renzulli et al., 2000) and assists in creating legitimacy within the market (Aldrich,
+2000). Legitimacy, especially for a new venture and particularly for innovative
+entrepreneurs is linked with being trusted by suppliers, customers and creditors.
+This paper builds on previous research described above regarding the linkage of different
+factors to the different stages of realising a new venture. The conceptual framework developed
+emphasises on decoupling the complexity of entrepreneurial intentions becoming entrepreneurial
+realisation. By examining how these factors help or hinder the realisation of a new venture we
+can analyse their impact on individuals and thus inform policies and educational programmes.
+Method and research strategy
+The focus of systems thinking is on helping to improve decision making by analysing the
+processes through which decisions emerge and by improving how the system works.
+Systems thinking perceive a problem as a set of circumstances with extreme ambiguity and
+sometimes disagreement about its definition between the people or organisations that are
+involved and who do not always operate in a predictable manner. The framework is
+constructed step-by-step and aims, through the insights from the debates that take place
+between theory, empirical observations and interconnections of different aspects, to make
+explicit the aspects of reality and understand why reality reacts in such a way (Checkland,
+1993; Pidd, 1996). In this case to understand what shapes and influences entrepreneurial
+intentions and actions at the different stages of the entrepreneurial realisation.
+The empirical part of the study adopted an explanatory method, using qualitative data.
+The qualitative data were collected in two stages: open-ended questions and semi-structured
+interviews (Bryman et al., 2008) and virtual discussion forums, using digital social networks
+for depicting perceptions and create debates between different stakeholders. This
+combination of approaches reinforce the systems thinking modelling process, which is
+based on the dialogue between different stakeholders and by providing current empirical
+evidences to observations that derive from previous research and debating factors that may
+lead to conflicting directions (Pidd, 1996).
+The characteristics of the first stage
+A questionnaire survey, including open questions, was designed to depict the experiences
+and perceptions, regarding factors that may lead to become and succeed as an entrepreneur.
+The questionnaire included the following categories of questions:
+(1) the profile of the young entrepreneurs (Tables AI and AII);
+(2) their experiences and their perceptions regarding the nature of entrepreneurial
+activity; and
+(3) the personality characteristics required to undertake entrepreneurial activity; and
+(4) the skills required by entrepreneurs to succeed.
+321
+Entrepreneurial
+path
+An invitation was sent to 100 young entrepreneurs who have started entrepreneurial
+activity in the last five years[1]. In total, 53 questionnaires were completed and were codified
+based on content analysis (Bryman, 2012). The codification during the analysis resulted in
+two categories: C1 operational type of factors and C2 personality type of factors.
+In order to complement the findings and ensure that the data provide a better
+understanding of the survey results, the researchers conducted interviews based on the
+initial data codification. These interviews created a “trail-story” for each participant[2].
+Characteristics of the virtual forums
+In parallel the researchers developed a set of digital discussion forums. These created virtual
+social interaction with peers, with the use of digital social networks as a means of the recent
+experienced social reality (Denzin and Lincoln, 2005). The discussion forums were activated
+on LinkedIn for a period of three months and managed by the researchers. The participants
+were invited by the researchers through an original network of contacts across Europe.
+Further participants were invited by the original participants ensuring their genuine identity
+to the organisers of the forums. The discussion forums initial questions[3] were:
+• Entrepreneurs: are they born or made?
+• Is entrepreneurship a team or an individual sport?
+• Does university foster entrepreneurship?
+• Male vs female entrepreneur: who does it better? Are they working under the same
+conditions?
+In total, 25 persons participated in the discussion forums with a total of more than
+80 input posts. The participants were a mix of academics, students, young entrepreneurs,
+professionals, business people and professionals in intermediary organisations. The
+discussions focussed mainly on the factors influencing entrepreneurial intentions and
+the transition towards active entrepreneur from the personality perspective and the
+socioeconomic perspective.
+Capturing the perception of informants through virtual forums have advantages but also
+limitations. Advantages of asynchronous communication of time and place can be the
+extended access to participants, compared to face-to-face interviews as there is no need to
+identify a convenient time and place for capturing the information (Coomber, 1997) while
+ensuring a degree of anonymity (Bampton and Cowton, 2002). Another advantage is that it
+reduces the cost of travel and provides the possibility to interview in a foreign language using
+translation tools. Limitations can be that the chance of a spontaneous answer to a question is
+smaller as the informant has more time to reflect to a question. It depends of course to the
+nature of the question if this spontaneity is an advantage or a disadvantage. Another
+limitation is the reduction of social cues as the body language cannot be used as a source of
+extra information. In order to reduce the effect of these disadvantages the researchers
+monitored the activity in the groups and often used humorous and informal language to create
+a relaxed environment among the participants, triggering replies from other participants and
+often used emoticons to express feelings and social cues. Finally, disadvantage of
+asynchronous communication of place is that the interviewer has no view on the situation in
+which the interviewee is situated (Opdenakker, 2006). This last disadvantage has little effect in
+our study as the participants were invited by a network of contacts across Europe.
+Analysis of results
+The conceptual framework that has been formed at the theoretical part of the paper
+(Figures 2-4) is compared with the findings from the primary research. Participant in the
+322
+IJEBR
+23,2
+discussion forum “The entrepreneurs: are they born or made?” quoted an interview with Herb
+Kelleher, Chairman and CEO of Southwest Airlines, (Babson Insight Staff, 2003), concluding
+that there is no specific list of personal features which lead to entrepreneurial activity.
+The answer lies in the right mix of personal attributes, which form an engaging and proactive
+work ethos, and the encouragement and enrichment of this ethos with skills that are developed
+both by the environment and the broader education that a person may receive.
+Findings in relation to formation of intentions and ideas stages
+Participants in “The entrepreneurs: are they born or made?” discussion forum agreed with
+Autio et al. (2013) that the socioeconomic context affects significantly the entrepreneurial
+intentions. The socioeconomic environment provides triggers that we tend to treat as
+opportunities or necessities and that entrepreneurship is one of the approaches to transform
+them into valuable activities. If the entrepreneurial approach has been cultivated over time
+and considered as central under the subjective norms, then it is more likely for a young
+person to consider such a career, especially when they have personal or family ties with
+others that are considered as successful (role models).
+The nascent entrepreneurs then employee their knowledge and skills that are earned
+from their broader education to direct the core of their activity. The triple role of universities
+to transfer and generate knowledge, form personalities and lead society’s perceptions and
+actively influence policy making and regulation forming, was raised by several members of
+the “Does university foster entrepreneurship?” forum. In parallel they mentioned the role of
+educational systems in supporting and boosting soft skills, such as creativity and
+adaptability, and interdisciplinary collaboration. Participants highlighted that universities
+need to encourage a holistic educational offering integrating science/technology knowledge,
+managerial/business skills and soft skills development in order for their students to be able
+Career
+Intentions
+Personal
+attitudes and
+values
+Entrepreneurial
+Career
+Intentions
+Knowledge-opportunity
+and/or necessity
+Entrepreneurial
+Opportunity
+Socioeconomic
+environment
+Enterprising
+Triggers
+Perceived
+Desirability
+Ideas
+Formation
+Subjective
+Norms Societal
+Perceptions
+Education
+system
+Societal barriers,
+e.g. gender
+perceptions and
+support
+Role
+Models Knowledge
+and skills
+Education
+system
+Passionate and
+proactive work
+ethos
+Holistic
+education
+Venture
+Ideas
+Figure 2.
+Formation of
+Entrepreneurial
+Intentions and
+Venture Ideas
+323
+Entrepreneurial
+path
+to invest in their creativity or be adaptable to new skill requirements. Participants
+commented that the best ideas come when people from different disciplines (engineering,
+science, arts and management) come together “shoulder to shoulder” and successfully
+interchange ideas. The group effect nurtures creativity and may be demonstrated in many
+fields, such as the case of the “Residencia de Estudiantes[4]”, established as early as 1910,
+with many famous artists and scientists as residents. Indicatively, a speech from Sir Ken
+Robinson was quoted[5] in the forums, who has been an internationally recognised Leader in
+the development of education on creativity and innovation (Robinson, 2001, 2009).
+He encourages policy makers and educators to rethink their role and build the right
+collaborative structures to sustain and enrich the natural creative spirits of every young
+person (Table I).
+Findings in relation to the transition barriers
+Institutions and regulations in combination with barriers raised by bureaucratic systems,
+and lack of a formal welfare system – as mentioned in the “Male vs female entrepreneurs”
+Subjective
+Norms
+Supportive
+institutional
+context
+Personal/Gender
+Anticipation
+Institutional
+Maturity
+Institutional
+Trust
+Institutional
+Maturity
+Fair, stable,
+easy to access
+Welfare
+System
+Perceived
+Feasibility
+Perceived
+Desirability
+Role
+Models
+Work
+Ethos Group
+Effect
+Knowledge and
+Understanding
+Decisive
+vision and
+Venture ambition
+Ideas
+Transition
+Barrier
+New Venture
+Creation
+Clear
+Leadership
+Figure 3.
+The transition barrier
+from nascent to active
+entrepreneur
+324
+IJEBR
+23,2
+forum – discourages young people from engaging in entrepreneurial activities. Furthermore,
+participants agreed that the education system should lead the effort to correct the
+misconception that entrepreneurship is a male only game. In the “Male vs female
+entrepreneur” forum participants agreed that the reason that new ventures are created
+predominantly by men is not because they are better entrepreneurs but rather due to the
+different roles that society expects men and women to play and the nature and availability
+of the supporting structures. The anticipation of their roles makes it easier for men to
+engage in entrepreneurial activities. In the “Does university foster entrepreneurship?” and
+the “Male vs female entrepreneurs” forums the participants argued that a supportive
+entrepreneurial and institutional context is a prerequisite for both male and female
+entrepreneurship presence. Often though, this context favours men. To expand female
+participation in entrepreneurship, it is a matter of building the right structures and directing
+the initiatives strategically for both genders. Furthermore, participants in the forums
+mention that in societies, which have replaced their welfare systems with family networks,
+such as in Southern Europe, universities could lead on the design and development of a
+sustainable welfare system that will eventually benefit both the economy and society at
+large – a welfare system that will offer relief and security in case of failure (e.g. re-training
+and micro-financing), or support of family needs (e.g. provision of child-care services).
+The issue of supportive structures (discussed in the “Does university foster entrepreneurship?”
+and cross-disciplinary competence (raised in the forum, “Is entrepreneurship a team sport
+or an individual sport”?) raised in the discussion forums. Practices employed by leading
+universities include “idea labs”, enterprise support centres, incubators, networking events,
+idea/business competitions and a number of undergraduate- and postgraduate-level courses
+New Venture
+Creation
+Entrepreneurial
+Social Capital
+Art of
+Running a
+Business
+Venture
+Growth
+Inspire
+Trust
+Create and
+Maintain
+Networks Attract
+Investment
+Institutional
+Maturity
+Personal
+attributes
+Seize new
+opportunities
+Reconfiguring
+assets and
+structures/
+Continuous
+improving
+Professional
+Passionate
+Adaptable
+Operational
+/Dynamic
+Capabilities
+Innovate
+continuously
+Figure 4.
+The active and
+growing venture
+325
+Entrepreneurial
+path
+related to entrepreneurship with the active involvement of entrepreneurs and business people
+were identified as best practices across Europe. The participants in this discussion broadly agreed
+that entrepreneurial activity benefits from the safe environment that academic institutions
+present. These structures in addition engage individuals to group activities and ideas are
+exchanged easier. The group effect, agreed in the discussion, raises the perceived desirability and
+feasibility. This is especially true in the transition stage of transforming an original business idea
+into a new venture.
+However, some participants observed that although groups are ideal for creativity
+and idea generation, it is always necessary to have one “leader” or “champion” who will
+push things forward and take the risk of implementation. It was also discussed in the
+forum that entrepreneurial firms that started from a group of people often fail unless one
+person in the group takes on the role of leader and either continues alone or successfully
+remodels the organisational structure towards a management team, providing clear vision
+and ambition. As the young entrepreneurs described the best characteristics of
+entrepreneurs (Table III) are persistent (Adomako et al., 2016) and willing to take the risk
+when others do not.
+Forum themes Main outcomes
+Entrepreneurs, born or made? Triggers that derive from personal ideas or knowledge are forming to
+entrepreneurial opportunities or other career directions, based on the
+options that are provided by the socioeconomic context
+No specific list of personal features, which lead to entrepreneurship.
+It requires
+Encouragement and exposure to entrepreneurial activity by the
+educational system and the social environment
+Cultivation from a young age of general perceptions of personal
+success through entrepreneurial based activities
+A passionate and proactive work ethos that is not a particular
+characteristic of entrepreneurs, but any successful professional
+Entrepreneurship, a team sport or
+an individual sport?
+Creativity thrives through networks and exposure to multidisciplinary
+knowledge and points of view
+Actual enterprise activity, however, requires a leader to shape a
+business and transform a group of individuals into a management
+team, with clear values, direction and structure
+Does university foster
+entrepreneurship?
+Most entrepreneurs have a university degree, considerably more than
+the general population
+Universities have a triple role: to create citizens with broad
+understanding and the ability to be critical and to synthesise; to lead
+society’s perception and shape personalities; and, to actively influence
+policy making. Therefore they need to
+Prepare the ground for future scientific and technological developments
+Balance practical-employability skills with creativity and general skills
+in the university curriculum
+Create initiatives and flexible structures, e.g. Ideas Labs, Enterprise
+Support Centres, etc., becoming the norm for all universities
+Male vs female entrepreneurs Societies have different perceptions of male/female roles, leading to
+different level of exposure to the idea of becoming an entrepreneur
+Education and welfare system play the most important role and are the
+strongest incentives for changing the trends of female entrepreneurial
+activity
+Universities under their triple role may lead society’s perception and
+shape personalities; and, actively influence policy making to break
+misconceptions and barriers
+Table I.
+Discussion forums
+main observations
+326
+IJEBR
+23,2
+Findings in relation to the active and growing ventures stages
+Kauffman Foundation demonstrated that more than 95 per cent of entrepreneurs have a
+university degree, with 47 per cent at postgraduate or doctorate level, a much higher
+proportion than in the general population (Wadhwa et al., 2009). Our survey shows that
+68 per cent of the participants held a university degree – six held a PhD (Table AI).
+Furthermore two-third of the participants in our survey founded their new ventures around
+their area of studies, applying their knowledge and skills as they identified a new
+opportunity emerging from advances in their scientific or technological field. However,
+one-third considered entrepreneurial activity as a need for alternative employment.
+These results, although they indicate that the majority of entrepreneurs have a high
+qualification level, defer from the Kauffman Foundation ones. This reflects that in Europe
+often entrepreneurial activity, especially in South Europe, comes as a result of necessity
+rather than choice.
+In the survey, “entrepreneurial success” is explored from the perspective of the
+successful entrepreneur. Two categories of factors were identified, referring to operational
+capabilities (or dynamic capabilities as Teece et al., 1997 labels them) and personal
+attributes (Markman and Baron, 2003; Stoltz, 2000), shaping the “art of running a
+business”. The capabilities that were mentioned more often by the young entrepreneurs
+were codified under the labels: “address a need/opportunity/good product/differentiation”,
+“continuous research and innovation”, “team and teamwork”, ‘persistence in achieving
+quality and continuous improvement, and “being reliable and trustworthy”. Regarding the
+personal attributes the participants mentioned that the key to success lies
+with the personal working ethos of the entrepreneur such as: “professionalism and hard
+work”, being “persistent and passionate”, “open mindedness and adaptability”,
+“brave/decisive/confident”, and “ambition/vision” (Table II). The need for “financial
+resources” and a “good plan” were mentioned in much lower frequency. These factors
+came in relation to the ability of an entrepreneur to attract investment and inspire
+trust. These together with the ability of an entrepreneur to create and maintain networks
+form the concept of entrepreneurial social capital. Finally the ability and maturity
+of the financial system to support with different ways a new venture to escape the
+“death valley” (e.g. venture accelerators, business angels, enterprise support centres)
+What is the key to be successful as an entrepreneur?
+Operational type factors
+Proportion of
+responses (%) Personal type factors
+Proportion of
+responses (%)
+Address a need/opportunity/
+good product/differentiation
+20 Professional/hard work 20
+Continuous research/
+innovation
+15 Persistent/passionate 18
+Team/teamwork 13 Open minded/ adaptable/learn
+every day
+16
+Persistence in achieving
+quality/thorough/continuous
+improvement
+13 Brave/decisive/confident 11
+Reliable/trustworthy 13 Ambition/vision 11
+Knowledge/experience 8 Dedicated/focussed/determined 9
+Financial resources/good plan 8
+Other (networking/good
+relationships; luck; take the
+first step)
+10 Other (humble/self-motivated; cope with
+responsibility and stress; believe/ optimistic;
+proactive)
+14
+Table II.
+Perception of the
+key factors to be
+successful as an
+entrepreneur
+327
+Entrepreneurial
+path
+and accelerate its growth (e.g. high-risk funds) becomes apparent in this
+stage of the entrepreneurial realisation as commented by the young entrepreneurs
+(Table III).
+Discussion of the entrepreneurial path concept
+Each region or individual has a different level of understanding and capacity to
+explore entrepreneurship. From the point of view of education and supportive
+structures, the progressiveness of the framework demonstrates a significant implication
+for presenting parallel activities, which are tailored to the different stage that their
+socioeconomic and entrepreneurial environment is. For example, investing on breeding
+perceived desirability and feasibility to nascent entrepreneurs and to cultivate the
+work ethos, social capital and soft skills of students, when the environment is not
+mature enough.
+The construction of the entrepreneurial path concept demonstrated that the early
+stages of career intentions, in the entrepreneurial realisation, are affected mainly from
+personal and societal factors (Figure 2). The individual interrelates knowledge,
+skills and experiences (e.g. role models) to direct career intentions towards an
+entrepreneurial direction. Societal norms and perceptions may encourage or discourage
+such activities and often redirect these intentions to career paths that are considered
+by society as most rewarding. Individuals that pursue an entrepreneurial career
+against the societal norms often are considered by their contemporaries as rebellions
+and most passionate, whom the society, paradoxically, may celebrates later as paradigms
+of success.
+The individuals that follow an entrepreneurial career need to transform intentions to
+concrete ideas and anticipate such path as the most desirable and feasible option
+(Figure 3). Their ethos, the fusion with others and their knowledge on the area of
+their venture may increase the desirability and feasibility perceptions. Till this stage the
+need for resources or difficulties in relation to the management of the business have not
+raised yet, or overlooked by the desire for action. On the other hand, the socioeconomic
+and institutional context might be bypassed by personal qualities; however, this might be
+the exception rather than the norm, highlighting the need for a supportive context.
+In some cases institutions may be unprepared to overcome stereotypes and reduce
+barriers (e.g. bureaucracy or gender stereotypes). In other cases entrepreneurship
+may be associated with corruption or the legal and regulatory system might be
+3 best characteristics of an entrepreneur
+Proportion of
+responses (%)
+Persistent/patient/determined 18
+Visionary/ambitious/intuitive/free spirit/innovative/creative/nuts 17
+Professional/hard working/thorough 13
+Open minded/open to change/continuous learning 6
+Passionate/self-motivated/self-esteem 6
+Brave/decisive/confident 6
+Humble/self-awareness/self-sacrifice 5
+Dedicated/focussed/self-belief 5
+Efficient/fast/good manager 5
+Leadership/charismatic 4
+Other (honest/reliable/responsible; proactive/aggressive; friendly/approachable/
+helpful; optimistic; team player; good relationships/networker; customer focussed;
+assess other peoples’ experiences; handle stress; intelligent) 16
+Table III.
+Perception of best
+characteristics of
+an entrepreneur
+328
+IJEBR
+23,2
+considered unstable, slow or favourites specific interests In such cases the role of the
+personal leadership is the crucial factor that amplifies the entrepreneurs’ actions
+escaping contextual barriers. On the other hand socioeconomic and institutional
+context may become a framework that provides support and boost personal efforts.
+For example, it may provide a safe space and regulation to try and fail if necessary, or
+networks to encourage “group effect”.
+Having established a new venture and aiming to growing it, entrepreneurs employee a
+different set of qualities. At this stage the personal attributes represent a flexible and
+adaptive professional who is able to initiate and maintain networks, inspire trust and attract
+financial and other resources. Furthermore, the social capital of the entrepreneur in
+combination to the social capital and capabilities of the whole venture (e.g. partners,
+employees, intellectual property) take the front stage of importance. The ability of the
+entrepreneur to manage these resources under a specific institutional context and adapt
+them tirelessly highlights the ability of the new venture to survive the first few years and
+grow over time (Figure 4). The institutional framework though has a responsibility to
+present a mature and complete set of structures available to any entrepreneur that may
+require them.
+Conclusions
+We conducted this research employing survey techniques in combination to innovative
+tools that contemporary technologies, such as the digital social networks, provide us. Often
+entrepreneurship is considered as one homogeneous activity that transits from interest and
+opportunity recognition (nascent entrepreneur) to exploitation through a new venture
+creation (active entrepreneur). However the overall entrepreneurial path (Figure 5)
+illustrates a rather complex network of personal and contextual factors that are deployed
+progressively into the entrepreneurial realisation. The decoupling of the stages
+demonstrates that different approaches are required in order to foster each one of those
+factors. Focussing activities and resources on one stage at the time, or presenting parallel
+activities that reflect the different level of maturity of regions, institutions, individuals and
+societal perceptions may provide better service to nascent and active entrepreneurs, than
+considering entrepreneurship as a unified process. The responses in this research
+demonstrate a rich activity of supportive actions across Europe; however these are referred
+as best practices and not as the norm. Becoming the norm, and be designed to reflect the
+contextual framework, these structures and educational programmes, have the potential to
+cover the needs of nascent entrepreneurs exploring their ideas and overcoming the
+transition barriers.
+Thus, a reshaping on the design of supportive structures (e.g. training programmes,
+incubators, co-working spaces, accelerators), is suggested by the framework in order to
+capture that level of maturity.
+Hence, this analytical framework may serve as a supportive tool for academics
+designing focussed entrepreneurship education programmes or research, managers in
+intermediate structures to identify the specific needs of nascent and early-stage
+entrepreneurs and for policy makers prioritising on supportive structures, institutions and
+regulations.
+Further research may examine whether the factors that have been identified by
+participants to play a key role in the different stages of the entrepreneurial realisation are
+also applicable for those who have not been successful in their effort to create or grow their
+venture. This further analysis may provide information on the, factors that encourage
+entrepreneurs who disengage at one of the stages or failed in their original venture to
+reengage with the process. Such factors may be related for example, with personal
+optimism, or the legal framework.
+329
+Entrepreneurial
+path
+Reconfiguring
+assets and
+structures/
+Continuous
+improving
+Career
+Intentions
+Subjective
+Norms
+Personal
+attitudes and
+values
+Enterprising
+Triggers
+Passionate and
+proactive work
+ethos
+Entrepreneurial
+Career
+Intentions Venture Ideas
+Transition
+Barrier
+Perceived
+Feasibility
+Perceived
+Desirability
+New Venture
+Creation
+Entrepreneurial
+Social Capital
+Art of
+Running a
+Business
+Venture
+Growth
+Role
+Models
+Work
+Ethos Group
+Effect
+Knowledge and
+Understanding
+Inspire
+Trust
+Create and
+Maintain
+Networks Attract
+Investment
+Personal/Gender
+Anticipation
+Institutional
+Trust
+Knowledge-opportunity
+and/or necessity Socioeconomic environment
+Societal
+Perceptions
+Institutional
+Maturity
+Operational
+/Dynamic
+Capabilities
+Role
+Models Entrepreneurial Opportunity
+Ideas
+Formation
+Education
+system
+Societal barriers,
+e.g. gender
+perceptions and
+support
+Knowledge
+and skills
+Welfare
+System
+Supportive
+institutional
+context
+Fair, stable,
+easy to access
+Institutional
+Maturity
+Subjective
+Norms
+Institutional
+Maturity
+Education
+system
+Decisive
+vision and
+ambition
+Clear
+Leadership
+Holistic
+education
+Personal
+attributes
+Professional
+Passionate
+Adaptable
+Innovate
+continuously
+Seize new
+opportunities
+Figure 5.
+Entrepreneurial path
+330
+IJEBR
+23,2
+Notes
+1. These actions have been implemented through the project “STARTENT: Fostering BusinessUniversity Partnerships for Entrepreneurship Education in Europe”, co-funded by the European
+Commission, DG Enterprise and Industry under the call “Entrepreneurial culture of young people
+and entrepreneurship education”. The overall objective of the project was to contribute to
+developing the entrepreneurial culture of young people, and to improve entrepreneurship
+education in Europe. Available at: www.startent.eu
+2. Complete texts of the replies in the form of “success stories” are published at: www.startent.eu/
+publications
+3. The complete discussions can be followed at: www.startent.eu LinkedIn discussions.
+4. www.residencia.csic.es/en/info/history.htm
+5. www.ted.com/talks/ken_robinson_says_schools_kill_creativity.html
+References
+Adomako, S., Danso, A., Uddin, M. and Ofori-Damoah, J. (2016), “Entrepreneurs’, optimism, cognitive
+style and persistence”, International Journal of Entrepreneurial Behavior & Research, Vol. 22
+No. 1, pp. 84-108.
+Ajzen, I. (1991), “The theory of planned behavior”, Organizational Behavior and Human Decision
+Processes, Vol. 50 No. 2, pp. 179-211.
+Aldrich, H. (2000), “Entrepreneurial strategies in new organizational populations”, in
+Swedberg, R. (Ed.), Entrepreneurship: The Social Science View, University Press, Oxford,
+pp. 211-228.
+Autio, E., Dahlander, L. and Frederiksen, L. (2013), “Information exposure, opportunity evaluation, and
+entrepreneurial action: an investigation of an online user community”, Academy of Management
+Journal, Vol. 56 No. 5, pp. 1348-1371.
+Autio, E., Keeley, R.H., Klofsten, M., Parker, G.G.C. and Hay, M. (2001), “Entrepreneurial intent among
+students in Scandinavia and in the USA”, Enterprise and Innovation Management Studies, Vol. 2
+No. 2, pp. 145-160.
+Babson Insight Staff (2003), “Entrepreneurs: born or made? A conversation with Herb
+Kelleher of Southwest Airlines”, available at: http://searchcio.techtarget.com/news/924412/
+Entrepreneurs-Born-or-made-A-conversation-with-Herb-Kelleher-of-Southwest-Airlines (accessed
+6 February 2012).
+Bampton, R. and Cowton, C.J. (2002), “The e-interview (27 paragraphs)”, Forum Qualitative
+Sozialforschung Forum: Qualitative Social Research, Vol. 3 No. 2, available at: www.qualitativeresearch.net/fqs-texte/2-02/2-02bamptoncowton-e.htm (accessed 7 September 2016).
+Bauernschuster, S., Falck, O. and Heblich, S. (2010), “Social capital access and entrepreneurship”,
+Journal of Economic Behavior & Organization, Vol. 76 No. 3, pp. 821-833.
+Blanchflower, D.G., Oswald, A. and Stutzer, A. (2001), “Latent entrepreneurship across nations”,
+European Economic Review, Vol. 45 Nos 4/6, pp. 680-691.
+Bosma, N., Wennekers, S. and Amorós, J.E. (2012), “Entrepreneurs and entrepreneurial employees
+across the globe”, 2011 extended report, Global Entrepreneurship Monitor, available at: www.
+babson.edu/Academics/centers/blank-center/global-research/gem/Documents/GEM%202011%
+20Extended%20Report%20VF%20rev.pdf (accessed 28 February 2016).
+Bridge, S., O’Neill, K. and Martin, F. (2009), Understanding Enterprise: Entrepreneurship and Small
+Business, 3rd ed., Palgrave Macmillan, Basingstoke.
+Bryman, A. (2012), Social Research Methods, 4th ed., Oxford University Press, Oxford.
+Bryman, A., Becker, S. and Sempik, J. (2008), “Quality criteria for quantitative, qualitative and
+mixed methods research: a view from social policy”, Social Research Methodology, Vol. 11 No. 4,
+p. 261.
+331
+Entrepreneurial
+path
+Checkland, P. (1993), Systems Thinking, Systems Practice, John Wiley & Sons, Chichester, New York, NY,
+Brisbane and Toronto.
+Coomber, R. (1997), “Using the internet for survey research”, Sociological Research Online,
+Vol. 2 No. 2, available at: www.socresonline.org.uk/socresonline/2/2/2.html (accessed
+7 September 2016).
+Cox, K. (2014), “Fundamental entrepreneurial planning processes: resource assessment and
+opportunity evaluation”, The International Journal of Entrepreneurship and Innovation,
+Vol. 15 No. 2, pp. 79-88.
+Dawson, C., Fuller-Love, N., Sinnott, E. and O’Gorman, B. (2011), “Entrepreneurs’ perceptions of
+business networks: does gender matter?”, The International Journal of Entrepreneurship and
+Innovation, Vol. 12 No. 4, pp. 271-281.
+De Clerq, D. and Arenius, P. (2006), “The role of knowledge in business start-up activity”, International
+Small Business Journal, Vol. 24 No. 4, pp. 339-358.
+Denzin, K.N. and Lincoln, S.Y. (2005), The Sage Handbook of Qualitative Research, 5th ed.,
+Sage Publications, CA.
+Dewett, T. and Gruys, M. (2007), “Advancing the case for creativity through graduate business
+education”, Thinking Skills and Creativity, Vol. 2 No. 2, pp. 85-95.
+Dunn, T. and Holtz-Eakin, D. (2000), “Financial capital, human capital, and the transition to
+self-employment: evidence from intergenerational links”, Journal of Labor Economics, Vol. 18
+No. 2, pp. 285-305.
+Etzkowitz, H., Webster, A., Gebhardt, C. and Cantisano Terra, B.R. (2000), “The future of the university
+and the university of the future: evolution of ivory tower to entrepreneurial paradigm”, Research
+Policy, Vol. 29 No. 2, pp. 313-330.
+European Commission (2008), “Entrepreneurship in higher education, especially in non-business
+studies”, final report, Enterprise and Industry Directorate-General, Brussels.
+Fayolle, A., Gailly, B. and Lassas-Clerc, N. (2006), “Assessing the impact of entrepreneurship
+education programmes: a new methodology”, Journal of European Industrial Training, Vol. 30
+No. 9, pp. 701-720.
+Grilo, I. and Irigoyen, J.M. (2006), “Entrepreneurship in the EU: to wish and not to be”, Small Business
+Economics, Vol. 24 No. 4, pp. 305-318.
+Gurel, E., Altinay, L. and Daniele, R. (2010), “Tourism students’ entrepreneurial intentions”, Annals of
+Tourism Research, Vol. 37 No. 3, pp. 646-669.
+Gnyawali, D. and Ravindranath, M. (2001), “Cooperative networks and competitive dynamics:
+a structural embeddedness perspective”, Academy of Management Review, Vol. 26 No. 3,
+pp. 431-445.
+Hoang, H. and Antoncic, B. (2003), “Network-based research in entrepreneurship: a critical review”,
+Journal of Business Venturing, Vol. 18 No. 2, pp. 165-187.
+Jonsson, S. (2014), “Entrepreneurs’ network evolution – the relevance of cognitive social
+capital”, International Journal of Entrepreneurial Behaviour and Research, Vol. 21 No. 2,
+pp. 197-223.
+Jung, D.I., Ehrlich, S.B., De Noble, A.E. and Bok Baik, K. (2001), “Entrepreneurial self-efficacy and its
+relationship to entrepreneurial action: a comparative study between the US and Korea”,
+Management International, Vol. 6 No. 1, pp. 41-53.
+Klyver, K., Hunter, E. and Watne, T. (2012), “Entrepreneurial ties and innovativeness in the
+start-up decision”, The International Journal of Entrepreneurship and Innovation, Vol. 13 No. 3,
+pp. 153-163.
+Kohn, K., Ulrich, K. and Spengler, H. (2010), “Annual analysis of structure and dynamic
+of entrepreneurship in Germany”, Frankfurt Main Entrepreneurship Education, Vol. 1 No. 1,
+pp. 65-86.
+332
+IJEBR
+23,2
+Kuratko, D.F. (2005), “The emergence of entrepreneurship education: development, trends, and
+challenges”, Entrepreneurship: Theory & Practice, Vol. 29 No. 5, pp. 577-597.
+Lamine, W., Mian, S. and Fayolle, A. (2014), “How do social skills enable nascent entrepreneurs
+to enact perseverance strategies in the face of challenges? A comparative case study of success
+and failure”, International Journal of Entrepreneurial Behaviour and Research, Vol. 20 No. 6,
+pp. 517-541.
+Lans, T., Gulikers, J. and Batterink, M. (2010), “Moving beyond traditional measures of entrepreneurial
+intentions in a study among life-sciences students in the Netherlands”, Research in PostCompulsory Education, Vol. 15 No. 3, pp. 259-274.
+Liñán, F. and Chen, Y.W. (2009), “Development and cross-cultural application of a specific instrument
+to measure entrepreneurial intentions”, Entrepreneurship Theory and Practice, Vol. 3 No. 3,
+pp. 593-617.
+Markman, G.D. and Baron, R.A. (2003), “Person-entrepreneurship fit: why some people are more
+successful as entrepreneurs than others”, Human Resource Management Review, Vol. 13 No. 2,
+p. 281.
+Matlay, H. (2008), “The impact of entrepreneurship education on entrepreneurial outcomes”, Journal of
+Small Business and Enterprise Development, Vol. 15 No. 2, pp. 382-396.
+Oosterbeek, H., Van Praag, M. and Ijsselstein, A. (2010), “The impact of entrepreneurship
+education on entrepreneurship skills and motivation”, European Economic Review, Vol. 54 No. 3,
+pp. 442-454.
+Opdenakker, R. (2006), “Advantages and disadvantages of four interview techniques in qualitative
+research, Paragraph 14 (44 paragraphs)”, Forum Qualitative Sozialforschung/Forum: Qualitative
+Social Research, Vol. 7 No. 4, available at: http://nbn-resolving.de/urn:nbn:de:0114-fqs0604118
+Pellinen, K. (2014), “The interplay of entrepreneurial and network activities in the entrepreneurial
+process: a relational analysis”, The International Journal of Entrepreneurship and Innovation,
+Vol. 15 No. 1, pp. 17-28.
+Pidd, M. (1996), Tools for Thinking. Modeling in Management Science, John Wiley & Sons, Chichester;
+New York, NY, Brisbane, Toronto and Singapore.
+Prá Martens, C.D., Fabrício Martins, L., Ana Claudia, B. and Rodrigues de Freitas, H.M. (2016),
+“Research on entrepreneurial orientation: current status and future agenda”, International
+Journal of Entrepreneurial Behavior & Research, Vol. 22 No. 4, pp. 556-583.
+Pruett, M., Shinnar, R., Toney, B., Llopis, F. and Fox, J. (2009), “Explaining entrepreneurial intentions of
+university students: a cross-cultural study”, International Journal of Entrepreneurial Behaviour
+& Research, Vol. 15 No. 6, pp. 571-594.
+Renzulli, L.A., Aldrich, H. and Moody, J. (2000), “Family matters: gender, networks, and entrepreneurial
+outcomes”, Social Forces, Vol. 79 No. 2, pp. 523-546.
+Rasmussen, E.A. and Sørheim, R. (2006), “Action-based entrepreneurship education”, Technovation,
+Vol. 26 No. 2, pp. 185-194.
+Robinson, K. (2001), Out of Our Minds: Learning to be Creative, Wiley: Capstone, Chichester.
+Robinson, K. (2009), The Element: How Finding Your Passion Changes Everything, Penguin, London.
+Scholin, T., Broome, P. and Ohlsson, H. (2016), “Self-employment: the significance of families for
+professional intentions and choice of company type”, International Journal of Entrepreneurial
+Behaviour and Research, Vol. 22 No. 3, pp. 329-345.
+Segal, G., Borgia, D. and Schoenfeld, J. (2005), “The motivation to become an entrepreneur”,
+International Journal of Entrepreneurial Behaviour and Research, Vol. 11 No. 1, pp. 42-57.
+Shapero, A. (1982), “Social dimensions of entrepreneurship”, in Kent, C. et al. (Eds), The Encyclopedia of
+Entrepreneurship, Prentice Hall, Englewood Cliffs, NJ, pp. 72-90.
+Shinnar, R.S., Giacomin, O. and Janssen, F. (2012), “Entrepreneurial perceptions and intentions:
+the role of gender and culture”, Entrepreneurship Theory and Practice, Vol. 36 No. 3,
+pp. 465-493.
+333
+Entrepreneurial
+path
+Souitaris, V., Zerbinati, S. and Al-Laham, A. (2007), “Do entrepreneurship programmes raise
+entrepreneurial intention of science and engineering students? The effect of learning, inspiration
+and resources”, Journal of Business Venturing, Vol. 22 No. 4, pp. 566-591.
+Stoltz, P.G. (2000), Adversity Quotient at Work, HarperCollins Publishers, New York, NY.
+Teece, D.J., et al. (1997), “Dynamic capabilities and strategic management”, Strategic Management
+Journal, Vol. 18 No. 7, pp. 509-533.
+Ulhøi, J.P. (2005), “The social dimensions of entrepreneurship”, Technovation, Vol. 25 No. 8,
+pp. 939-946.
+Verheul, I., Thurik, R., Grilo, I. and van der Zwan, P. (2011), “Explaining preferences and actual
+involvement in self-employment: gender and the entrepreneurial personality”, Journal of
+Economic Psychology, Vol. 33 No. 2, pp. 325-341.
+Wadhwa, V., Raj, A., Krisztina, H. and Alex, S. (2009), “The anatomy of an entrepreneur: family,
+background and motivation”, available at: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=
+1431263 (accessed 28 February 2016).
+Welter, F. and Smallbone, D. (2006), “Exploring the role of trust in entrepreneurial activity”,
+Entrepreneurship: Theory & Practice, Vol. 30 No. 4, pp. 465-475.
+Zampetakis, L., Gotsi, M., Andriopoulos, C. and Moustakis, V. (2011), “Creativity and entrepreneurial
+intention in young people”, The International Journal of Entrepreneurship and Innovation,
+Vol. 12 No. 3, pp. 189-199.
+Further reading
+Druihe, C. and Garnsey, E. (2002), “Tracking the emergence and progress of university spin-out cases”,
+IEEE International Engineering Management Conference, (IEMC ’02), Cambridge, 18-20 August,
+pp. 322-327.
+Hajizadeh, A. and Zali, R.Z. (2016), “Prior knowledge, cognitive characteristics and opportunity
+recognition”, International Journal of Entrepreneurial Behavior & Research, Vol. 22 No. 1,
+pp. 63-83.
+Honig, B. (2004), “Entrepreneurship education: toward a model of contingency-based business
+planning”, Academy of Management Learning and Education, Vol. 3 No. 3, pp. 258-273.
+Liñán, F. (2004), “Intention-based models of entrepreneurship education”, Piccolla Impresa/Small
+Business, Vol. 3 No. 1, pp. 11-35.
+Maman, D. (2000), “Who accumulates directorships of big business firms in Israel?:
+Organizational structure, social capital and human capital”, Human Relations, Vol. 53 No. 5,
+pp. 603-630.
+OECD (2009), The Impact of The Global Crisis on SMEs and Entrepreneurship Financing and Policy
+Responses, C.f.e. OECD, SMEs and Local Development, Paris.
+Weitzel, U., Urbig, D., Desai, S., Sanders, M. and Acs, Z. (2010), “The good, the bad, and the talented:
+entrepreneurial talent and selfish behavior”, Journal of Economic Behavior & Organization,
+Vol. 76 No. 1, pp. 64-81.
+334
+IJEBR
+23,2
+Appendix
+Corresponding author
+Paraskevi Giourka can be contacted at: pgiourka@gmail.com
+Age group Level of educationa Gender group
+18-24 9 Grad/post degree 30 Male 36
+25-30 19 PhD 6 Female 17
+31-35 16 Vocational 2
+35+ 9
+Note: a
+15 participants did not provide data
+Table AI.
+Young entrepreneurs’
+profile
+Country of origin Type of activity Years of operation
+Spain 15 IT services 13 1st year 14
+UK 8 Consulting 12 up to 3 years 22
+Bulgaria 7 Creative industry 7 up to 5 years 10
+Italy 7 Energy 5 5+ years 7
+Portugal 5 Health/cosmetic services 4
+Cyprus 4 Othera 12
+Otherb 7
+Notes: a
+Agro-food, clothes, architecture, biomedical, construction, copy centre, education, law, trade,
+water treatment; b
+Belgium, Hungary, Finland, France, Germany, USA
+Table AII.
+Young entrepreneurs’
+origin, type of
+activity, years
+of operation
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+335
+Entrepreneurial
+path
